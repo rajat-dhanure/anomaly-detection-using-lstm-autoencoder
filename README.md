@@ -20,7 +20,7 @@ This project implements unsupervised anomaly detection using a Long Short-Term M
 ## Dataset
 
 - Dataset: NSL-KDD
-- Source: [NSL-KDD on Kaggle](https://www.kaggle.com/datasets/sampadab17/nsl-kdd](https://www.kaggle.com/datasets/hassan06/nslkdd))
+- Source: [NSL-KDD on Kaggle](https://www.kaggle.com/datasets/hassan06/nslkdd))
 - Contains network traffic records labeled as normal or attack types
 
 ---
